@@ -1,0 +1,56 @@
+ATENÇÃO
+
+Os registros iniciam em abril de 2010.
+
+No ano de 2010 a intensidade do vento está em km/h e a partir de janeiro de
+2011 em m/s.
+
+Para converter de km/h para m/s basta dividir a intensidade do vento por 3,6.
+
+Esse dado não é real
+01/12/11 102,2 mm provavelmente foi teste.
+Mudar para 0
+
+Quando as planilhas tiverem 2 colunas a menos é falta dos registros de temp no solo.
+Acho que o problema ocorreu de 2012 até setembro de 2013
+
+Dados faltantes:
+-----------------
+dezembro de 2010 (inteiro)
+dias 01 a 12 de janeiro de 2011
+dias 22 a 31 de dezembro de 2011
+abril de 2012 (inteiro)
+maio de 2012 (inteiro)
+junho de 2012 (inteiro)
+julho de 2012 (inteiro)
+agosto de 2012 (inteiro)
+abril de 2013 (do dia 24 as 23hrs ao dia 25 as 9:30hrs há dados faltantes)
+agosto de 2013 (dias 12 ao 21; o computador estragou - tivemos que conseguir um pc
+                novo e reinstalar os softwares).
+janeiro de 2015 (do dia 29 as 06:40hrs ao dia 29 as 07:20hrs há dados faltantes
+                 do dia 30 as 04:00hrs ao dia 30 as 06:30hrs há dados faltantes		
+                 do dia 31 as 03:40hrs ao dia 31 as 12:00hrs há dados faltantes)	 
+
+fevereiro de 2015 dia 01 das 2:50 hr as 06:40 hr
+                  dia 02 das 2:30 hr as 06:40 hr
+                  dia 03 das 2:50 hr as 06:20 hr
+                  dia 04 das 3:50 hr as 06:10 hr
+                  dia 05 das 3:50 hr as 07:20 hr
+                  dia 06 das 3:30 hr as 06:50 hr				  
+julho de 2015 dias 09 e 19 têm poucos horários e
+              dias 10 a 18 não tem dados (não foi feito a tempo o download dos dados). Greve Tati.
+
+
+outubro de 2015 em diante: intensidade do vento em km/h (nos anteriores estavam em m/s)
+
+maio de 2016 sensor de instensidade e direção do vento estragou
+
+setembro de 2016 a tabela txt (a grande) está toda correta, mas tem falha no dia 28 entre 9 e 10 hs 
+          
+outubro de 2016 a tabela txt está correta, só os 3 primeiros dias do pdf (resumo diario) que está errado.
+
+janeiro de 2017: dias 14 e 15 de janeiro a precipitação segundo a estacão do Jardim Boa Vista foi zero (eu
+                 recordo desses dois dias e foi zero mesmo). A Davis registrou chuva erroneamente.
+
+
+		
